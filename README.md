@@ -9,7 +9,7 @@ To install and use this project, you need to have a web server (such as Apache),
 
 Clone or download the project files to your computer.
 Create a new database in MySQL and import the included "users.sql" file to create the "users" table.
-Edit the "db.php" file to set your database credentials.
+Edit the "config.php" file to set your database credentials.
 Upload the project files to your web server.
 Usage
 Once you have installed the project, you can access the index.php file in your web browser to view the list of users. From there, you can add, edit, or delete users as needed.
